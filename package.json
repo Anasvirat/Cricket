@@ -1,5 +1,5 @@
 {
-  "name": "token-m3u8-proxy",
+  "name": "token-m3u8-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
