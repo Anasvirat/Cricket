@@ -8,7 +8,7 @@ const app = express();
 const SECRET = "0987654321";
 
 // Public M3U8 hosted on GitHub
-const GITHUB_M3U8_URL = "https://Anasvirat.github.io/PHP/513.m3u8";
+const GITHUB_M3U8_URL = "http://tigerott.com:8080/live/0583333/111111/75299.m3u8";
 
 /**
  * Route: /genarate.m3u8
